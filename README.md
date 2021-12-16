@@ -15,13 +15,18 @@ To write a program to find the exponentiation of a number.
 ```
 /*
 Program to find the exponentiation of a number.
-Developed by: 
-RegisterNumber: 
+Developed by:KRISHNA PRAKAASH D.M
+RegisterNumber: 21500183
+def sq():
+    x=int(input())
+    a=x**2
+    print('Exponentiation of a given number:',a)
+sq()
 */
 ```
 
 ## Output:
-![exponentiation of a number](expo.png)
+![exponentiation of a number](TTT2.png)
 
 
 ## Result:
